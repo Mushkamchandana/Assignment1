@@ -282,4 +282,18 @@ namespace Assignment1
         } //end of DestCity 
 
     }
-}
+}//Self reflection: 
+        //   1.This assignment demands learning C# basics like,
+         // - Conditional statements
+         // - Iterative statements
+         // - Method declaration and calling
+         // - Array declaration and population
+        // 2. This assignment helped me in understanding the essence of Console.WriteLine, which is a great help  
+         //   in solving logical errors.
+         //3. This assignment made sure I understand the errors and the ways to solve them.
+         
+        // Recommendations:
+         //1.More questions on topic arrays should have been included (atleast one more question).
+        // 2.Instead of triangle with *, a triangle with number series would have been more interesting. */
+
+
